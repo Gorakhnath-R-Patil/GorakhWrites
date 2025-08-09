@@ -136,7 +136,13 @@ const storiesData = [
 
             <p>As the sun climbed over the horizon, Jay felt, at last, a fragile hope that humanity had a chance to grow again.</p>
         `
-    }
+    },
+    {
+"title": "Conflict",
+"file": "Conflict.html",
+"publishedDate": "2025-08-09",
+"genre": "Drama, Fantasy",
+"content": ` <div class="story-content-meta"> <div class="d-flex justify-content-between align-items-center flex-wrap"> <div> <span class="genre-badge genre-drama">Drama, Fantasy</span> <small class="text-muted ms-2"><i class="bi bi-calendar3"></i> 2025-08-09</small> </div> </div> </div> <h1>Conflict</h1> <p>In the shadow of a burning acacia wood, a golden cub crouched low behind a scorched tree trunk, ears flattened against his skull. Flames crackled and spat in the distance, and the acrid tang of smoke clung to the hot air. On the horizon, dust and embers danced where fire clan warriors clashed with the water dancers. The air was thick with heat and terror, and the ground trembled as if the earth itself cried out in pain.</p> <p>On the opposite bank of a blackened creek, a silver-blue cub pressed herself flat against a slender reed. Tendrils of mist from the river curled around her paws. Kami’s eyes were wide, reflecting the flames that lit the sky. She tasted salt on her lips from the spray of the waterfall downriver, and the mournful calls of her kin came to her from the darkness. Every muscle in her body was tensed, ready to spring as she waited for the next roar of battle.</p> <p>For a heartbeat, the chaos stilled around them. The crackle of fire, the clash of steel and fangs, the anguished roars—all fell away. Through the haze of smoke, Baga saw eyes that were the same color as the night sky reflected in water. Across the dying reeds and shattered grass, Kami’s gaze met his. In that fragile pause, enemy and ally melted into the same frightened reflection. Neither cub moved or made a sound; their shared fear froze them in place.</p> <p>Baga licked his dry muzzle, tasting the metallic tang of fear. In Kami’s eyes, he saw something he recognized – a longing for peace, a yearning for home. Kami felt the same spark when she looked at him. Though they were born to opposite clans and their mothers taught them to fight, in that frozen moment they were just two lost cubs, calling softly for the world to be quiet. Then, like a shutter snapping, silence broke. Distant claws shrieked; a thunder of hooves approached. The cubs scattered into the brush, invisible beneath the wall of war once more.</p> <p>Later that night, after the battle had moved on, Baga returned to the safety of his pride. Meera, his mother, nuzzled him gently at the entrance of the den. She carefully cleaned soot and mud from his mane with her warm tongue. "You’re safe now," she murmured, brushing her nose along his cheek. Baga leaned into her comfort, though the taste of smoke still lingered in his fur.</p> <p>By the dying fire within the cave, Baga’s father Thoran told tales of hero lions from ages past. He lifted Baga up on his hind legs as if he were teaching him to roar, then sat him down on a smooth rock by the hearth. Around them, other young cubs listened wide-eyed to every word, but Baga’s thoughts drifted. Somewhere beyond the firelight, two golden eyes watched the flames alongside him.</p> <p>The night sky was wide and starry on Kami’s side of the land. Kami sat by a silver pool, watching moonlight ripple across the water’s surface. Her father Talan, a great silver lion with wisdom in his eyes, joined her on the soft sand. Kami looked at him and felt a surge of pride, but also a shadow of concern at the set of his brow.</p> <p>"The clans will fight again soon," Talan murmured, a solemn vow more than a promise. Kami nodded slowly. She took a deep breath to steady herself, determination rippling through her muscles. The idea of war made her heart tremble like the surface of her pool. Far across the night, something caught the corner of her eye—a flicker of flame. For a moment, she imagined a golden silhouette and allowed herself to believe it might be the cub from her memory.</p> <p>Years passed. Baga grew into a young lion with a smoky-gold pelt, now broad-shouldered and wary-eyed. He was taught to fight by the flame of discipline from his first steps, but even as muscles coiled under his fur, he kept the embers of doubt burning inside. The fire clan’s village perched on a plateau of black basalt and red sand, ovens of magma hidden beneath the ground. At dawn, Baga jogged among his kin for morning drills, spear in paw. He remembered the sharp warmth of his mother’s tongue on his face, the fierce pride of his father’s roar as he taught him to fight. But now, each breath smelled of soot and steel, not home. Deep down, a quiet part of him still hungered for something more than conquest.</p> <p>One afternoon, Baga slipped away from the rigors of training to hunt in the tall grasses beyond camp. His senses sharpened as he crouched beneath a scrubby acacia, waiting. When a lone gazelle stepped into view, Baga’s muscles coiled and he sprang. The hunt was clean; he brought down the antelope swiftly. Biting into warm meat, a deep hunger was satisfied. Yet even in that moment of triumph, he felt the same emptiness of purpose return, as if the taste of victory was too bitter to savor.</p> <p>Long ago, even before the birth of their cubs, this land was scarred by the same feud. The fire pride’s ancestors had once roared their defiance under the sun, while the water pride’s elders had stirred the rivers with their victory cries. No cub is truly born to hate; yet for centuries, generations of lions had fed on vengeance as hungrily as they fed on antelope. It was as if the very earth expected them to fight, wearing their conflict into the stones and streams.</p> <p>As dusk fell, Baga sat on a mound of cooled lava by the clan’s roaring fire pit. Shadows from the flames danced across the skulls and bones propped around the sacred flame. The last light of the sun painted the sky orange and red, as if echoing the colors of their pride. Baga’s gaze drifted to where the land fell away to the river, guilt knotting in his chest at what lay beyond. The heat of the embers pulsed like his own thudding heart.</p> <p>His younger brother, Jali, bounded over, eyes bright with mischief and the thrill of battle. Jali panted with excitement as he sketched zigzagging patterns in the air with his clawed paw. He boasted of hunting beyond the border, carving new scars into the water clan’s riverbanks. "They screamed like crickets when we charged," Jali said with a triumphant grin. Baga’s voice was silenced by the thrill of it all.</p> <p>Baga felt his stomach clench at Jali’s words. Another night flashed behind his eyes, far from this camp, when he and a larger patrol had stalked into a river mouth. In that stolen silence of the hunt, Baga had glimpsed only a frightened cub’s golden eyes, not the face of an enemy. He forced a smile for his brother, but inside him a cold dread built like the final flicker of dying embers.</p> <p>The night was quiet on Kami’s side. She had woken early to practice alone. Now she emerged from the crescent lagoon at dawn, water dripping from her sleek blue fur. Mist curled around her muzzle with each breath. The world held its collective breath as her sharp gaze pierced the calm horizon. Under the gentle flood of morning light, even the reeds seemed to stand still in reverence.</p> <p>Kami exhaled sharply, the cool dawn air clearing her head. She wove her thoughts into a knot of calm determination. Among the silent ranks of her kin, she felt the tight grip of fear loosen. The first blasts of a shellhorn rose from behind the riverbank, low and terrible. The war had begun once more.</p> <p>Kami steadied herself as the golden lion charged closer. Her mother’s whispered encouragement still lingered in her mind. Silver-blue fur bristled on her back as she raised her spear. Baga’s roar split the air like thunder. In that instant, Kami felt his old name on her tongue, but it died unsaid amidst the clamor of war.</p> <p>A great shout split the morning air. Baga felt a surge of heat as the clans collided. Spears clattered against water shields. The earth shuddered under a thousand pounding paws. Kami’s blue eyes glinted as she held her spear steady, heart hammering to the rhythm of the drums. She spun, striking a fire warrior’s helmet before another swiped at her flank. Baga dug in his claws, rolling to avoid a snapping maw. They were alive in the blood and thunder, just as they had been born to be.</p> <p>Amidst the fray, a flash of silver caught Baga’s eye. He spun away from his current opponent, searching through the chaos. On the far side of the battlefield, he spotted a lithe figure moving like water. Baga shook his head, uncertain. Who was that among the silver-blue chaos? The figure bristled with recognition—silver-blue fur, golden eyes wide with a familiar fear.</p> <p>Kami felt the cut open against the flow of her silver pelt, warm blood staining the tip of her spear. In that same moment, Baga regained his footing and lunged. His claws raked across Kami’s flank. A thin line of red welled up where they met her ribs; she growled softly at the sting. Time warped, stretching each second. For Baga, Kami’s face was all thunder and sorrow; for Kami, Baga’s form was fire and remorse.</p> <p>Baga launched himself at Kami with a roar that echoed off the river cliffs. His claws aimed for her flank, but Kami was ready. She sidestepped, whipping her spear in a graceful arc that opened a shallow cut along Baga’s shoulder. Pain lanced through his side; he stumbled. For a heartbeat, the battle around them vanished. They circled each other warily, eyes locked on those haunted golden eyes again.</p> <p>Kami managed a faint, half-smile. "I remember," she murmured, and in that sound seemed the laughter of youth — of two lost cubs who had once dreamed of peace beyond the war. Baga tried to respond, but only a broken rumble answered. Then the fiery light in his eyes faded to the color of dusk.</p> <p>Silence crept back into the world. Around them the battlefield fell still; the river’s gentle lapping filled the void. Dawn’s first light glinted on spilled blood and rippling water alike. Even the crickets and the rippling stream seemed to pause in respect. Fire and water lay together on the scarred earth as if at peace. A lone bird called out from the trees, its song carrying the names of two lions who had once known each other beyond this conflict.</p> <p>They had been raised with claws for each other, but in death they lay side by side, their enmity washed clean by dawn. The river’s current carried away their final footprints. The fire in the earth cooled to gray ash. On this quiet morning, it was as though the world itself held its breath for a tragedy it could not understand.</p> ` }
 ];
 
 // Initialize filtered stories array
@@ -201,9 +207,11 @@ async function displayStory(storyData) {
 // Story navigation rendering
 function renderStories(stories = filteredStories) {
     const storyList = document.getElementById('story-list');
+    const storyCount = document.getElementById('story-count');
     if (!storyList) return;
     
     storyList.innerHTML = '';
+    if (storyCount) storyCount.textContent = stories.length;
     
     stories.forEach((story, index) => {
         const publishedDate = new Date(story.publishedDate).toLocaleDateString('en-US', {
@@ -212,8 +220,8 @@ function renderStories(stories = filteredStories) {
             day: 'numeric'
         });
         
-        const storyItem = document.createElement('li');
-        storyItem.className = `nav-item story-nav-item ${index === 0 ? 'active' : ''}`;
+        const storyItem = document.createElement('div');
+        storyItem.className = `story-nav-item ${index === 0 ? 'active' : ''}`;
         
         storyItem.innerHTML = `
             <div class="d-flex flex-column">
@@ -266,7 +274,7 @@ function updateStoryNavigation() {
 
 // Search functionality
 function initializeSearch() {
-    const searchInput = document.getElementById('search-input');
+    const searchInput = document.getElementById('story-search');
     if (searchInput) {
         searchInput.addEventListener('input', function(e) {
             const query = e.target.value.toLowerCase();
@@ -310,7 +318,7 @@ function initializeGenreFilter() {
         });
         
         genreFilter.addEventListener('change', function(e) {
-            const searchQuery = document.getElementById('search-input')?.value.toLowerCase() || '';
+            const searchQuery = document.getElementById('story-search')?.value.toLowerCase() || '';
             filterStories(searchQuery, e.target.value);
         });
     }
@@ -334,10 +342,10 @@ function sortStories(sortBy) {
         case 'title-desc':
             filteredStories.sort((a, b) => b.title.localeCompare(a.title));
             break;
-        case 'date-newest':
+        case 'date-desc':
             filteredStories.sort((a, b) => new Date(b.publishedDate) - new Date(a.publishedDate));
             break;
-        case 'date-oldest':
+        case 'date-asc':
             filteredStories.sort((a, b) => new Date(a.publishedDate) - new Date(b.publishedDate));
             break;
         case 'genre':
@@ -356,23 +364,43 @@ function sortStories(sortBy) {
     }
 }
 
-// Navigation between home and contact
+// Navigation between home and contact - FIXED FOR HTML STRUCTURE
 function showHomePage() {
-    document.getElementById('home-content').style.display = 'block';
-    document.getElementById('contact-content').style.display = 'none';
+    const homeContent = document.getElementById('home-content');
+    const contactContent = document.getElementById('contact-content');
+    
+    if (homeContent) {
+        homeContent.style.display = 'block';
+        homeContent.classList.remove('d-none');
+    }
+    if (contactContent) {
+        contactContent.style.display = 'none';
+        contactContent.classList.add('d-none');
+    }
     
     // Update navigation
     document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
-    document.getElementById('home-nav-btn').classList.add('active');
+    const homeNavBtn = document.getElementById('home-nav-btn');
+    if (homeNavBtn) homeNavBtn.classList.add('active');
 }
 
 function showContactPage() {
-    document.getElementById('home-content').style.display = 'none';
-    document.getElementById('contact-content').style.display = 'block';
+    const homeContent = document.getElementById('home-content');
+    const contactContent = document.getElementById('contact-content');
+    
+    if (homeContent) {
+        homeContent.style.display = 'none';
+        homeContent.classList.add('d-none');
+    }
+    if (contactContent) {
+        contactContent.style.display = 'block';
+        contactContent.classList.remove('d-none');
+    }
     
     // Update navigation
     document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
-    document.getElementById('contact-nav-btn').classList.add('active');
+    const contactNavBtn = document.getElementById('contact-nav-btn');
+    if (contactNavBtn) contactNavBtn.classList.add('active');
 }
 
 // Initialize the application
@@ -391,11 +419,17 @@ document.addEventListener('DOMContentLoaded', function() {
     const contactNavBtn = document.getElementById('contact-nav-btn');
     
     if (homeNavBtn) {
-        homeNavBtn.addEventListener('click', showHomePage);
+        homeNavBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            showHomePage();
+        });
     }
     
     if (contactNavBtn) {
-        contactNavBtn.addEventListener('click', showContactPage);
+        contactNavBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            showContactPage();
+        });
     }
     
     // Initialize search and filters
