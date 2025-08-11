@@ -10,7 +10,8 @@ let filteredStories = [];
 const storyFiles = [
     'consciousness.json',
     'conflict.json',
-    'TheGreed-Compass.json'
+    'TheGreed-Compass.json',
+    'Stillness.json'
 ];
 
 // Load all stories from JSON files
