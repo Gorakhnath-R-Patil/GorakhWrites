@@ -11,7 +11,8 @@ const storyFiles = [
     'consciousness.json',
     'conflict.json',
     'TheGreed-Compass.json',
-    'Stillness.json'
+    'Stillness.json',
+    'Haunting.json'
 ];
 
 // Load all stories from JSON files
